@@ -1,5 +1,5 @@
 
-# NUCLEO-F429ZI OLED RTOS ISR Project
+# STM32 NUCLEO-F429ZI OLED RTOS ISR Project
 
 This project demonstrates how to use the NUCLEO-F429ZI development board with an SH1106 OLED (I2C, 128x64), leveraging the u8g2 graphics library and CMSIS-RTOS v2 (FreeRTOS) to achieve professional multi-mode display. The codebase is modular, supporting real-time multitasking, animation, QR code, and info screen switching.
 
